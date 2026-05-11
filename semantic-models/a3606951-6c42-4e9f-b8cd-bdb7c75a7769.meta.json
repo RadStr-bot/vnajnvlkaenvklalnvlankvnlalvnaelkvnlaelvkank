@@ -1,0 +1,17 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/950bbf22-b286-452e-a659-2f9277d969f2/vocabulary",
+  "projectIri": "a3606951-6c42-4e9f-b8cd-bdb7c75a7769",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Data Specification Vocabulary (DSV)"
+    },
+    "documentBaseUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/"
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
