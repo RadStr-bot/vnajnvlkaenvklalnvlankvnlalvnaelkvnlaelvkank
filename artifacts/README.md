@@ -1,0 +1,1 @@
+Tento dokument byl vygenerován 11. 5. 2026 7:29:30.
